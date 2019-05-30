@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "project-cli/package.json"
+      ]
+    }
+  }
+}
