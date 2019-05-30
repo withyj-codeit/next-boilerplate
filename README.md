@@ -38,6 +38,8 @@
 
 ## About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pankod/next-boilerplate.svg)](https://greenkeeper.io/)
+
 
 Next.js is a minimalistic React framework that runs in the browser and the server. It offers developers an easy way to get started, and as it uses React.js for templating it is also a straightforward way for developers with React experience to get productive fast.
 
