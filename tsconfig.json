@@ -13,6 +13,9 @@
 		"removeComments": false,
 		"skipLibCheck": true,
 		"sourceMap": true,
-		"target": "esnext"
+		"target": "esnext",
+
+		"strictNullChecks": true,
+		"experimentalDecorators": true,
 	}
 }
